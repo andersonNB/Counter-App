@@ -1,9 +1,11 @@
 import React from "react";
 
-const PrimeraApp = (props) => {
-  
- const {saludo} = props;
+const PrimeraApp = ({saludo}) => {
 
+    
+  
+ 
+  
   return (
     <>
       <h1>{saludo}</h1>

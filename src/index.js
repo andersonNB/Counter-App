@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
 
-    <PrimeraApp saludo="Texto desde las props"></PrimeraApp>
+    <PrimeraApp saludo="Hola soy Vegeta"></PrimeraApp>
     
   </React.StrictMode>,
   document.getElementById('root')
